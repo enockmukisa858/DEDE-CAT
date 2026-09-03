@@ -1,0 +1,7 @@
+{
+  "name": "BD Music Player",
+  "description": "A luxury gold and obsidian black local music player by Enock Mukisa, featuring local audio library scanning with artwork thumbnails, DSP equalizer, and frosted glass audio controls.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
